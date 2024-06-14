@@ -1,0 +1,30 @@
+.contact-container{
+  padding:20px;
+  border: 1px solid black;
+  border-radius: 8px;
+  width: 400px;
+  background-color: #f7eaea;
+  margin-left: 38%;
+  margin-top: 10%;
+}  
+.contact-heading{
+  font-size: 24px;
+  margin-bottom: 10px;
+  color: #2c1c1c;
+}
+.contact-address{
+  font-size: 16px;
+  line-height: 1.5;
+  color: #724845;
+  margin-bottom: 20px;
+}
+.contact-subheading{
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: #333;
+}
+.contact-phone{
+  font-size: 16px;
+  color: #007bff;
+  margin-bottom: 5px;
+}

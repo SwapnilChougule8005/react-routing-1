@@ -1,0 +1,30 @@
+
+.tutorial-container{
+    padding: 20px;
+    margin: 30px;
+    background-color: #f1d8d8;
+}
+.tutorial-button {
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+    margin-bottom: 20px;
+}
+.tutorial-button button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #d1cccc;
+    border-radius: 15px;
+
+}
+.video-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+}
+.youtube-video{
+    padding: 15px;
+    border-radius: 10px;
+}
